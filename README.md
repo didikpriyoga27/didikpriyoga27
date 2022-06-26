@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @didikpriyoga27
 - 👀 I’m interested in Mobile App Development using React Native
-- 🌱 I’m currently learning Next JS and Laravel
-- 💞️ I’m looking to collaborate on Mobile App and Website Project
+- 🌱 I’m currently learning React Native with Typescript
+- 💞️ I’m looking to collaborate on Mobile App Project
 - 📫 How to reach me by WA +6285156508022
 
 <!---
