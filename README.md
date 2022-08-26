@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @didikpriyoga27
-- 👀 I’m interested in Mobile App Development using React Native
-- 🌱 I’m currently learning React Native with Typescript
+- 👀 I’m interested in Mobile App Development using React Native & Flutter
+- 🌱 I’m currently learning Flutter & React Native with Typescript
 - 💞️ I’m looking to collaborate on Mobile App Project
 - 📫 How to reach me by WA +6285156508022
 
